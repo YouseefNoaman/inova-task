@@ -1,0 +1,1 @@
+SELECT id, salary FROM Employee ORDER BY salary DESC LIMIT (2-1), 1;
